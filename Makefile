@@ -1,5 +1,3 @@
-# Makefile
-
 NAME=TLDScanner
 
 $(NAME): clear

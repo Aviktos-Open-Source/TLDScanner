@@ -28,5 +28,9 @@ export PYTHONPATH=$(pwd)/src
 make
 ```
 
+## Result
+You can find registered domains in log/{domain_name} as json format.
+Domains that are not registed will not show, or you can see logs interminal mentioning domains that are not found.
+
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.

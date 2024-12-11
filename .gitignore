@@ -1,0 +1,7 @@
+__pycache__/
+src/TLDScanner/__pycache__/
+*.pyc
+.vscode/
+env/
+requirements_production.txt
+setup.py

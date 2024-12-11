@@ -21,6 +21,10 @@ cd TLDScanner && pip install -r requirements.txt
 
 ```bash
 export PYTHONPATH=$(pwd)/src
+# Open the Makefile and edit the domain to the desired one
+# example:
+# python3 -m TLDScanner.main google src/TLDScanner/data --format json
+# python3 -m TLDScanner.main mydomain src/TLDScanner/data --format json
 make
 ```
 

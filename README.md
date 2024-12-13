@@ -1,5 +1,6 @@
 # TLDScanner
-This tool scans a given domain name across all common top-level domain (TLD) extensions (e.g., .com, .net, .io) to check if the domain is registered or available for purchase.
+TLDScanner is a tool developed by Aviktos Open Source Organisation.
+This tool scans a given domain name across all common top-level and low-level domain (TLD) extensions (e.g., .com, .net, .io) to check if the domain is registered or available for purchase.
 
 # Note
 This tool supports only Python 3 and currently is designed to be used on Unix-based operating systems.

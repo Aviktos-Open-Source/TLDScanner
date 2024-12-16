@@ -1,5 +1,5 @@
 # TLDScanner
-TLDScanner is a tool developed by Aviktos Open Source Organisation.
+TLDScanner is a tool developed by Avictos Open Source Organisation.
 This tool scans a given domain name across all common top-level and low-level domain (TLD) extensions (e.g., .com, .net, .io) to check if the domain is registered or available for purchase.
 
 # Note
